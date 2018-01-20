@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-    selector: 'hb-non-routed',
+    selector: 'hb-routed',
     template: `
       <div class="content">
         <h1>This is the routed component</h1>
